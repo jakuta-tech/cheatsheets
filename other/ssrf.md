@@ -9,7 +9,7 @@ Connection: close
 
 ### Check tcpdump for incoming traffic on DNS server
 ```
-sudo tcpdump -i <interface> -nn -s0 -v port 53
+tcpdump -i <interface> -nn -s0 -v port 53
 ```
 
 

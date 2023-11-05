@@ -1,7 +1,7 @@
 ### Source
 https://github.com/CiscoCXSecurity/enum4linux  
 
-### -a = get - userlist, machine list, share list, group member, OS, printer)
+### Get users, machines, shares, group member, OS
 ```
 enum4linux -a <rhost>
 ```

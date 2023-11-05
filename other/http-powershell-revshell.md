@@ -23,6 +23,6 @@ PS> loadps1 <source/path>
 
 ### For server: you might need to install
 ```
-sudo apt install libncurses5-dev
+apt install libncurses5-dev
 ```
 

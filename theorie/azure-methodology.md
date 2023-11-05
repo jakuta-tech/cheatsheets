@@ -253,7 +253,7 @@ vim php.ini
 insert:
 extension=sqlite3
 
-sudo apt install php7.4-mbstring
+apt install php7.4-mbstring
 systemctl restart apache2
 php -S <365StealerIp>:8080
 pip3 install -r requirements.txt

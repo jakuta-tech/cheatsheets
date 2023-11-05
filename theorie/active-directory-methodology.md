@@ -88,7 +88,7 @@ The service-for-User-to-Self extension allows a service to obtain a service tick
 A System Access Control List describes which accesses to objects are to be logged.
 
 #### SAM 
-The Security Account Manger is the logon name used to support clients and servers running earlier versions of windos, such as NT 4.0, 95, 98 and LAN Manager. Duplicate in database is not possible.
+The Security Account Manger is the logon name used to support clients and servers running earlier versions of windows, such as NT 4.0, 95, 98 and LAN Manager. Duplicate in database is not possible.
 
 #### SCCM
 The System Center Configuration Manager is deployment software.

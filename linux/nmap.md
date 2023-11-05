@@ -21,7 +21,7 @@ https://github.com/nmap/nmap
 
 ### Intense scan - use it for capture the flags
 ```
-sudo nmap -A -sV -O --min-rate 600 --script "(vuln or exploit or auth) and not broadcast" -oA <rhost>-vuln-scripts <rhost> -p- -vv --open
+nmap -A -sV -O --min-rate 600 --script "(vuln or exploit or auth) and not broadcast" -oA <rhost>-vuln-scripts <rhost> -p- -vv --open
 ```
 
 ### Resume stopped scan (need normal (-oN) or grepable (-oG) format)

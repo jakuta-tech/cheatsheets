@@ -313,6 +313,9 @@ Scan vulnerable drivers on Windows with loldrivers.io
 https://github.com/FoxIO-LLC/ja4
 JA4+ is a suite of network fingerprinting standards
 
+https://github.com/Frissi0n/GTFONow
+Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
+
 https://github.com/FuzzySecurity/PowerShell-Suite
 My musings with PowerShell
 
@@ -411,6 +414,9 @@ A repository of tools for pentesting of restricted and isolated environments.
 
 https://github.com/JPG0mez/ADCSync
 Use ESC1 to perform a makeshift DCSync and dump hashes
+
+https://github.com/JPG0mez/ADCSync
+Use ESC1 to perform a makeshift/alternative DCSync and dump hashes
 
 https://github.com/JamesCooteUK/SharpSphere
 .NET Project for Attacking vCenter
@@ -1240,6 +1246,9 @@ spk aka spritzgebaeck: A small OSINT/Recon tool to find CIDRs that belong to a s
 https://github.com/dhn/udon
 A simple tool that helps to find assets/domains based on the Google Analytics ID.
 
+https://github.com/diego-treitos/linux-smart-enumeration
+Linux enumeration tool for pentesting and CTFs with verbosity levels
+
 https://github.com/diegocr/netcat
 NetCat for Windows 
 
@@ -1558,6 +1567,9 @@ Run Powershell without software restrictions.
 https://github.com/ionuttbara/windows-defender-remover
 A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
+https://github.com/ipSlav/DirtyCLR
+An App Domain Manager Injection DLL PoC on steroids
+
 https://github.com/irsdl/IIS-ShortName-Scanner
 latest version of scanners for IIS short filename (8.3) disclosure vulnerability
 
@@ -1786,6 +1798,9 @@ Windows persistence toolkit written in C#.
 https://github.com/mandiant/capa
 The FLARE team's open-source tool to identify capabilities in executable files.
 
+https://github.com/marcnewlin/hi_my_name_is_keyboard
+This repository contains proof-of-concept scripts for CVE-2023-45866, CVE-2024-21306, and CVE-2024-0230.
+
 https://github.com/markuta/bw-dump
 A proof-of-concept that extracts plaintext master passwords from a locked Bitwarden vault. 
 
@@ -1833,6 +1848,9 @@ Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and oth
 
 https://github.com/mgeeky/SharpWebServer
 Red Team oriented C# Simple HTTP & WebDAV Server with Net-NTLM hashes capture functionality
+
+https://github.com/mgeeky/decode-spam-headers
+A script that helps you understand why your E-Mail ended up in Spam
 
 https://github.com/mgeeky/msi-shenanigans
 Proof of Concept code and samples presenting emerging threat of MSI installer files.
@@ -1938,6 +1956,9 @@ A tool for standing up (and tearing down!) purposefully insecure cloud infrastru
 
 https://github.com/nccgroup/ssh_user_enum
 SSH User Enumeration Script in Python Using The Timing Attack
+
+https://github.com/netero1010/EDRSilencer
+A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
 
 https://github.com/netero1010/GhostTask
 Create scheduled tasks using registry manipulations and bypass event logs such as 4698 "Scheduled task created"
@@ -2353,6 +2374,9 @@ DirSync is a simple proof of concept PowerShell module to demonstrate the impact
 https://github.com/skahwah/SQLRecon
 A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.
 
+https://github.com/skelsec/adiskreader
+Async Python library to parse local and remote disk images.
+
 https://github.com/skelsec/evilrdp
 Th evil twin of aardwolfgui using the aardwolf RDP client library that gives you extended control over the target and additional scripting capabilities from the command line.
 
@@ -2514,6 +2538,9 @@ Password guess tool
 
 https://github.com/vanhoefm/fragattacks
 This repository contains the FragAttacks tool. It can test Wi-Fi clients and access points for fragmentation and aggregation attacks.
+
+https://github.com/vm32/Linux-Incident-Response
+practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response
 
 https://github.com/vmdiff/vmdiff-prototype
 Diff and display virtual machine snapshots

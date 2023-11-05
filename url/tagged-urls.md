@@ -223,6 +223,7 @@
 * https://infosecwriteups.com/red-teaming-evading-av-c948ec5d10e9 ; #windows #av #anti-virus #edr #evasion #bypass #windows-defender #shellcode #meterpreter
 * https://infosecwriteups.com/shellcodes-are-dead-long-live-fileless-shellcodes-609cbacd5cb0?gi=2442aa3a41e3 ; #shellcode #fileless #heap #obfuscation
 * https://infosecwriteups.com/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397 ; #cors #webapp #xss
+* https://ipslav.github.io/2023-12-12-let-me-manage-your-appdomain ; #windows #appdomain #edr #evasion #dirtyclr #dot-net
 * https://isc.sans.edu/diary/A+new+spin+on+the+ZeroFont+phishing+technique/30248 ; #phishing #email #threat-intelligence
 * https://itm4n.github.io/dll-proxying ; #windows #dll #privesc #privilege-escalation #proxying #wrapper
 * https://itm4n.github.io/lsass-runasppl ; #windows #lsass #lsa-protection #runasppl #credential-guard #driver
@@ -262,6 +263,7 @@
 * https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html ; #mfa #evilginx2 #phishing #token
 * https://m0chan.github.io/2019/07/31/How-To-Attack-Kerberos-101.html ; #active-directory #windows #kerberos #golden-ticket #kerberoast #rubeus
 * https://m365internals.com/2021/11/30/lateral-movement-with-managed-identities-of-azure-virtual-machines ; #cloud #azure #entra #lateral-movement #managed-identities #vm
+* https://madaidans-insecurities.github.io/guides/linux-hardening.html ; #linux #hardening #kernel #grub
 * https://maia.crimew.gay/posts/fuckstalkerware-2 ; #webapp #git #file-upload
 * https://maikroservice.com/how-to-setup-wazuh-as-your-siem-with-debian-proxmox ; #setup #siem #proxmox #wazuh
 * https://maikroservice.com/identity-management-wazuh-and-authentik ; #identity-manager #siem #wazuh #authentik #setup
@@ -283,6 +285,7 @@
 * https://medium.com/@ronkaminskyy/geolocating-a-traveler-via-osint-techniques-ed34ed120a00 ; #osint #geo-location #image
 * https://medium.com/@Sec0ps/using-windows-helpfile-as-a-foothold-cebbb55f6655 ; #threat-intel #chm #initial-access #phishing
 * https://medium.com/@TalBeerySec/a-short-note-on-aws-key-id-f88cc4317489 ; #aws #cloud #key-id #authentication #python
+* https://medium.com/@TalBeerySec/hi-meta-whatsapp-with-privacy-6d646c5aa3bc ; #whatsapp #linked-devices-enumeration
 * https://medium.com/@two06/hacking-a-tapo-tc60-camera-e6ce7ca6cad1 ; #hardware #iot #internet-of-things #reverse-engineering #camera
 * https://medium.com/@xploiterd/ec2-user-data-to-rce-f601264a75c2 ; #aws #cloud #user-data #rce
 * https://medium.com/@youcef.s.kelouaz/writing-a-sliver-c2-powershell-stager-with-shellcode-compression-and-aes-encryption-9725c0201ea8 ; #c2 #sliver #powershell #stager #shellcode #hollowing
@@ -323,6 +326,7 @@
 * https://palant.info/2022/08/10/anatomy-of-a-basic-extension ; #browser #chrome #extension #manifest
 * https://pentera.io/resources/research/the-lolbas-odyssey-finding-new-lolbas-and-how-you-can-too ; #lolbin #windows #methodology
 * https://pentestbook.six2dez.com/enumeration/cloud/azure ; #cloud #azure #entra #cheatsheets
+* https://pentestlab.blog/2023/11/06/persistence-windows-telemetry ; #windows #persistence #compattelrunner
 * https://pentestlab.blog/2023/11/20/persistence-scheduled-task-tampering ; #windows #schtask #persistence
 * https://permiso.io/blog/lucr-3-scattered-spider-getting-saas-y-in-the-cloud ; #threat-intel #ransomware #cloud #aws
 * https://pgj11.com/posts/Diamond-And-Sapphire-Tickets ; #kerberoast #active-directory #diamond #sapphire #s4u2self
@@ -394,6 +398,7 @@
 * https://riccardoancarani.github.io/2023-08-03-attacking-an-edr-part-1 ; #edr #evasion #bypass #windows
 * https://riccardoancarani.github.io/2023-09-14-attacking-an-edr-part-2 ; #edr #evasion #bypass #windows
 * https://ristbs.github.io/2023/02/08/your-pocket-guide-to-opsec-in-adversary-emulation.html ; #windows #edr #evasion #bypass #kernel-callback #etw
+* https://rootcat.de/blog/aws_seperatists ; #aws #cloud #organizationaccountaccessrole
 * https://ryangjchandler.co.uk/posts/understanding-serialisation-in-php ; #php #serialisation
 * https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods ; #syscall #av #anti-virus #edr #bypass #windows
 * https://s3cur3th1ssh1t.github.io/On-how-to-access-protected-networks ; #network #firewall #pingcastle #infrastructure
@@ -525,6 +530,7 @@
 * https://www.intruder.io/research/we-hacked-ourselves-with-dns-rebinding ; #dns-rebinding #cloud #aws #ec2
 * https://www.inversecos.com/2022/05/how-to-perform-clipboard-forensics.html ; #clipboard #memory #forensic #dfir #history
 * https://www.ired.team/offensive-security/defense-evasion/preventing-3rd-party-dlls-from-injecting-into-your-processes ; #windows #dll #cheatsheets #methodology #detection
+* https://www.jackphilipbutton.com/post/how-to-protect-evilginx-using-cloudflare-and-html-obfuscation ; #phishing #evilginx #cloudflare #html-obfuscation
 * https://www.kitploit.com/2023/03/qrexfiltrate-tool-that-allows-you-to.html ; #qr-code #data-exfiltration #air-gapped
 * https://www.lemagit.fr/actualites/252529585/Ransomware-comment-traque-t-on-les-gains-des-cybercriminels ; #bitcoin #thread-intelligence
 * https://www.mandiant.com/resources/blog/abusing-dll-misconfigurations ; #windows #dll #sideloading #hijack #enumeration
@@ -559,6 +565,7 @@
 * https://www.prosec-networks.com/en/blog/petit-potam-ntlm-relay-angriff ; #active-directory #certificate-service #adcs #petit-potam #printerbug #rpc
 * https://www.rapid7.com/blog/post/2023/05/05/appdomain-manager-injection-new-techniques-for-red-teams ; #windows #lateral-movement #persistence #initial-access #appdomain-manager-injection #powershell
 * https://www.redteam.cafe/phishing/long-live-dmarc-email-spoof-issues ; #phishing #dmarc #spoofing #mail
+* https://www.redteam.cafe/red-team/dll-sideloading/dll-sideloading-not-by-dllmain ; #dll-sideloading #windows #frida
 * https://www.redteam.cafe/red-team/dll-sideloading/dll-sideloading-not-by-dllmain ; #windows #dll #sideloading #hijack #frida
 * https://www.reliaquest.com/blog/scattered-spider-attack-analysis-account-compromise ; #scattered-spider #ransomware #threat-intelligence
 * https://www.resecurity.com/blog/article/ransomware-attacks-against-the-energy-sector-on-the-rise-nuclear-and-oil-gas-are-major-targets-2024 ; #ransomware #threat-intel #negotiation
@@ -604,7 +611,7 @@
 * https://www.trustedsec.com/blog/kioskpos-breakout-keys-in-windows ; #windows #breakout #kiosk
 * https://www.trustedsec.com/blog/okta-for-red-teamers ; #okta #windows #active-directory
 * https://www.trustedsec.com/blog/onedrive-to-enum-them-all ; #cloud #azure #entra #onedrive #user-enumeration
-* https://www.trustedsec.com/blog/ppid-spoofing-its-really-this-easy-to-fake-your-parent ; #av #anti-virus #edr #evasion #bypass #ppid #spoofing 
+* https://www.trustedsec.com/blog/ppid-spoofing-its-really-this-easy-to-fake-your-parent ; #av #anti-virus #edr #evasion #bypass #ppid #spoofing
 * https://www.trustedsec.com/blog/prefetch-the-little-snitch-that-tells-on-you ; #forensic #dfir #windows #prefetch
 * https://www.trustedsec.com/blog/red-vs-blue-kerberos-ticket-times-checksums-and-you ; #kerberos #active-directory #ticket-times #checksum
 * https://www.trustedsec.com/blog/set-up-an-android-hacking-lab-for-0 ; #android #lab #emulator #frida #apk

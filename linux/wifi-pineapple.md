@@ -10,7 +10,7 @@
 
 wget wifipineapple.com/wp6.sh
 chmod +x wp6.sh
-sudo bash wp6.sh
+bash wp6.sh
 ```
 
 ### Source

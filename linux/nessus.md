@@ -1,15 +1,15 @@
 ### Install
 ```
 Download Nessus https://www.tenable.com/downloads/nessus
-sudo dpkg -i Nessus-*.deb"
-sudo systemctl start nessusd"
+dpkg -i Nessus-*.deb"
+systemctl start nessusd"
 ```
 
 ### Update plugins
 ```
-sudo systemctl stop nessusd
-sudo /opt/nessus/sbin/nessuscli fetch --register <key>
-sudo systemctl start nessusd
+systemctl stop nessusd
+/opt/nessus/sbin/nessuscli fetch --register <key>
+systemctl start nessusd
 ```
 
 ### Listen only  on localhost

@@ -1,7 +1,7 @@
 ### Extension Pack
 https://www.virtualbox.org/wiki/Downloads
 ```
-sudo VBoxManage extpack install Oracle_VM_VirtualBox_Extension_Pack-<XXX>.vbox-extpack
+VBoxManage extpack install Oracle_VM_VirtualBox_Extension_Pack-<XXX>.vbox-extpack
 ```
 
 ### Disk usage of AD joined/configured windows hosts
@@ -28,12 +28,12 @@ apt install build-essential dkms linux-headers-$(uname -r)
 mkdir -p /mnt/cdrom
 mount /dev/cdrom /mnt/cdrom
 cd /mnt/cdrom
-sudo sh ./VBoxLinuxAdditions.run --nox11
+sh ./VBoxLinuxAdditions.run --nox11
 
 - Ubuntu
-sudo apt-get install virtualbox-guest-additions-iso
-sudo mount /usr/share/virtualbox/VBoxGuestAdditions.iso /mnt
-sudo VBoxLinuxAdditions.run/VBoxLinuxAdditions.run
+apt-get install virtualbox-guest-additions-iso
+mount /usr/share/virtualbox/VBoxGuestAdditions.iso /mnt
+VBoxLinuxAdditions.run/VBoxLinuxAdditions.run
 ```
 
 ###  Fix error "Can not register the hard disk"
@@ -43,10 +43,10 @@ vboxmanage closemedium disk <id>"
 
 ### Install developer build
 ```
-sudo bash VirtualBox-<XXX>-Linux_amd64.run
-sudo /sbin/vboxconfig
+bash VirtualBox-<XXX>-Linux_amd64.run
+/sbin/vboxconfig
 
 # Uninstall:
-sudo bash VirtualBox-<XXX>-Linux_amd64.run uninstall
+bash VirtualBox-<XXX>-Linux_amd64.run uninstall
 ```
 
