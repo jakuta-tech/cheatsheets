@@ -87,5 +87,5 @@ git config --global --unset http.proxy
 ```
 
 ### Generate access token
-https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
+* https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
 

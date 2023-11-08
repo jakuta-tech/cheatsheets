@@ -271,6 +271,9 @@ Open-source tool to bypass windows and linux passwords from bootable usb
 https://github.com/FalconForceTeam/FalconHound
 FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.
 
+https://github.com/FalconForceTeam/SOAPHound
+SOAPHound is a custom-developed .NET data collector tool which can be used to enumerate Active Directory environments via the Active Directory Web Services (ADWS) protocol.
+
 https://github.com/Flangvik/DeployPrinterNightmare
 C# tool for installing a shared network printer abusing the PrinterNightmare bug to allow other network machines easy privesc!
 
@@ -423,6 +426,9 @@ https://github.com/JamesCooteUK/SharpSphere
 
 https://github.com/JoelGMSec/PSRansom
 PowerShell Ransomware Simulator with C2 Server
+
+https://github.com/JohnHammond/CVE-2021-34527
+CVE-2021-34527 is a critical remote code execution and local privilege escalation vulnerability dubbed "PrintNightmare."
 
 https://github.com/JohnWoodman/VBA-Macro-Reverse-Shell
 Fully functioning reverse shell written entirely in VBA.
@@ -619,11 +625,17 @@ AD ACL abuse
 https://github.com/PalindromeLabs/awesome-websocket-security
 Awesome information for WebSockets security research 
 
+https://github.com/Pennyw0rth/NetExec
+The Network Execution Tool. This project was initially created in 2015 by @byt3bl33d3r, known as CrackMapExec.
+
 https://github.com/PhilipHaglund/ADCS
 The two PowerShell scripts provides an easy and documented process to install, configure and setup a complete two-tier PKI environment.
 
 https://github.com/Plachtaa/VALL-E-X
 An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+
+https://github.com/PortSwigger/ip-rotate
+Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.
 
 https://github.com/Postuf/telegram-osint-lib
 Telegram scenario-based API aimed at OSINT
@@ -1459,6 +1471,9 @@ TEx is a Telegram Explorer tool created to help Researchers, Investigators and L
 https://github.com/h311d1n3r/Cerberus
 A Python tool to unstrip Rust binaries on Linux
 
+https://github.com/h4wkst3r/ADOKit
+Azure DevOps Services Attack Toolkit
+
 https://github.com/h4wkst3r/SCMKit
 Source Code Management Attack Toolkit
 
@@ -2107,6 +2122,9 @@ Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner
 https://github.com/peewpw/Invoke-WCMDump
 PowerShell Script to Dump Windows Credentials from the Credential Manager
 
+https://github.com/pentestfunctions/BlueDucky
+CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
+
 https://github.com/persistence-info/persistence-info.github.io
 The repository tries to gather an information about Windows persistence mechanisms to make the protection/detection more efficient.
 
@@ -2512,6 +2530,9 @@ hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage ma
 https://github.com/trustedsec/orpheus
 Bypassing Kerberoast Detections with Modified KDC Options and Encryption Types
 
+https://github.com/tsale/TeleTracker
+TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.
+
 https://github.com/twelvesec/passcat
 Passwords Recovery Tool
 
@@ -2551,6 +2572,9 @@ morphHTA - Morphing Cobalt Strike's evil.HTA
 https://github.com/w1u0u1/smb2os
 Use smb2 protocol to detect remote computer os version, support win7/server2008-win10/server2019
 
+https://github.com/waelmas/frameless-bitb
+A new approach to Browser In The Browser (BITB) without the use of iframes, allowing the bypass of traditional framebusters implemented by login pages like Microsoft and the use with Evilginx.
+
 https://github.com/waydroid/waydroid
 Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 
@@ -2583,9 +2607,6 @@ Teamsniper is a tool for fetching keywords in a Microsoft Teams such as (passwor
 
 https://github.com/xalicex/LOLDrivers_finder
 The purpose of this project is to retrieve potential process killer drivers.
-
-https://github.com/xforcered/ADOKit
-Azure DevOps Services Attack Toolkit
 
 https://github.com/xforcered/InvisibilityCloak
 Proof-of-concept obfuscation toolkit for C# post-exploitation tools

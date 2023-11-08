@@ -1,3 +1,4 @@
+* http://asciiqr.com ; #ascii #unicode #phishing #qr-code
 * http://bugmenot.com
 * https://12ft.io
 * https://amsi.fail
@@ -40,6 +41,7 @@
 * https://ipv4.myip.wtf/json
 * https://jwt.io
 * https://kartaview.org
+* https://kiosk.vsim.xyz ; #kisok #escape #tooling
 * https://lofl-project.github.io
 * https://lolbas-project.github.io
 * https://lots-project.com
@@ -67,6 +69,7 @@
 * https://scamsearch.io
 * https://socradar.io/labs/accountbreach
 * https://spydialer.com
+* https://threats.wiz.io ; #cloud #malware #watchlist
 * https://urlfiltering.paloaltonetworks.com
 * https://vim-adventures.com
 * https://windows96.net

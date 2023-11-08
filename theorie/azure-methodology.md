@@ -51,6 +51,9 @@ Once a resource has been deleted the SAMI will be deleted too.
 #### Tenant
 A Tenant is an instance of an Enterprise. An Enterprise can have multiple tenants (like domains in a forest).
 
+#### UAL
+Unified Audit Log aggregates logs from various services, such as Exchange Online, SharePoint Onlinet, OneDrive, Microsoft Teams and Azure AD/Entra ID.
+
 #### User-Assigned Managed Identity
 Once a resource has been deleted the UAMI won't not be deleted. UAMI can be used on multiple resources.
 
