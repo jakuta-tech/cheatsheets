@@ -6,6 +6,7 @@
 * https://github.com/Simpsonpt/AppSecEzine
 * https://latesthackingnews.com/category/cyber-security-news
 * https://rss.voidsec.com
+* https://talkback.sh
 * https://thehackernews.com
 * https://thisweekin4n6.com
 * https://www.golem.de/specials/security

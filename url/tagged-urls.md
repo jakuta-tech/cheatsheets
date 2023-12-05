@@ -487,6 +487,7 @@
 * https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool ; #osint #geo-location #open-street-map #image
 * https://www.blackhillsinfosec.com/abusing-exchange-mailbox-permissions-mailsniper ; #windows #exchange #mailsniper #mailbox #outlook
 * https://www.blackhillsinfosec.com/constrained-language-mode-bypass-when-pslockdownpolicy-is-used ; #windows #powershell #constrained-language-mode #clm #bypass
+* https://www.blackhillsinfosec.com/hunting-for-ssrf-bugs-in-pdf-generators ; #web #server-side-request-forgery #ssrf #pdf #javascript #html #aws
 * https://www.blackhillsinfosec.com/introducing-graphrunner ; #azure #entra #microsoft365 #graphrunner
 * https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995 ; #phishing #microsoft-direct-send #spoofing #mail
 * https://www.blazeinfosec.com/post/tearing-amsi-with-3-bytes ; #windows #amsi #bypass #dll

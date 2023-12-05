@@ -445,6 +445,9 @@ A collection of tools Neil and Andy have been working on released in one place a
 https://github.com/LaresLLC/SlinkyCat
 Slinky Cat attempts to give users an easy-to-navigate menu offering predefined Active Directory Service Interfaces (ADSI) and .NET queries which can be used to enumerate a Windows domain.
 
+https://github.com/LaresLLC/SuperSharpShares
+SuperSharpShares is a tool designed to automate enumerating domain shares, allowing for quick verification of accessible shares by your associated domain account.
+
 https://github.com/Leo4j/Amnesiac
 Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments
 
@@ -477,6 +480,9 @@ Porch Pirate is the most comprehensive Postman recon / OSINT client and framewor
 
 https://github.com/MartinIngesen/TokenStomp
 C# implementation of the token privilege removal flaw discovered by @GabrielLandau/Elastic
+
+https://github.com/MatheuZSecurity/D3m0n1z3dShell
+Demonized Shell is an Advanced Tool for persistence in linux.
 
 https://github.com/MattKeeley/Spoofy
 Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
@@ -1068,6 +1074,9 @@ Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory
 
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 Privilege Escalation Awesome Scripts SUITE new generation
+
+https://github.com/cdk-team/CDK
+Make security testing of K8s, Docker, and Containerd easier.
 
 https://github.com/cfalta/PowerShellArmoury
 A PowerShell armoury for security guys and girls
