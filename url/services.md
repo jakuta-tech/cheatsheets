@@ -12,6 +12,7 @@
 * https://canarytokens.org
 * https://caniuse.com
 * https://chat.openai.com
+* https://check-host.net
 * https://ciphersuite.info
 * https://cofense.com/knowledge-center-hub/real-phishing-examples-and-threats
 * https://command-not-found.com

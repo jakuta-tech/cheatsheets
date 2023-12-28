@@ -868,6 +868,9 @@ Another tool to perform minidump of LSASS process using few technics to avoid de
 https://github.com/Yara-Rules/rules
 Repository of yara rules
 
+https://github.com/YosfanEilay/ForensicMiner
+A really good DFIR automation for collecting and analyzing evidence designed for cybersecurity professionals.
+
 https://github.com/Z4kSec/IoctlHunter
 IoctlHunter is a command-line tool designed to simplify the analysis of IOCTL calls made by userland software targeting Windows drivers (BYOVD (Bring Your Own Vulnerable Driver)).
 
@@ -1359,6 +1362,9 @@ Ask a TGS on behalf of another user without password
 
 https://github.com/fr0gger/IATelligence
 IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related
+
+https://github.com/francozappa/bluffs
+Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023]
 
 https://github.com/freshness79/HTA-Shell
 HTA Visual Basic script for remote shell on windows machines
@@ -2107,6 +2113,9 @@ A new AMSI Bypass technique using .NET ALI Call Hooking.
 https://github.com/praetorian-inc/ADFSRelay
 Proof of Concept Utilities Developed to Research NTLM Relaying Attacks Targeting ADFS
 
+https://github.com/praetorian-inc/gato
+GitHub Actions Pipeline Enumeration and Attack Tool
+
 https://github.com/praetorian-inc/noseyparker
 Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 
@@ -2319,6 +2328,9 @@ A windows token impersonation tool
 
 https://github.com/sensepost/ruler
 A tool to abuse Exchange services
+
+https://github.com/shellphish/how2heap
+A repository for learning various heap exploitation techniques.
 
 https://github.com/sherlock-project/sherlock
 Hunt down social media accounts by username across social networks
