@@ -3,12 +3,12 @@ https://docs.leakix.net/docs/api/authentication
 
 ### Get subdomains
 ```
-curl -H "api-key: <apiKey>" -H "accept: application/json" "https://leakix.net/api/subdomains/<domain>" 
+curl -s -H "api-key: <apiKey>" -H "accept: application/json" "https://leakix.net/api/subdomains/<domain>" 
 ```
 
 ### Get ports (mostly 80,443), subdomains, HTTP header, HTML tile, geolocation, asn, etc
 ```
-curl -H "api-key: <apiKey>" -H "accept: application/json" "https://leakix.net/domain/<domain>"
+curl -s -H "api-key: <apiKey>" -H "accept: application/json" "https://leakix.net/domain/<domain>"
 ```
 
 ### Collect information about multiple hosts

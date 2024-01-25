@@ -199,8 +199,17 @@ Implementation of Advanced Module Stomping and Heap/Stack Encryption
 https://github.com/Coldzer0/ReverseSock5Proxy
 A tiny Reverse Sock5 Proxy written in C
 
+https://github.com/CompassSecurity/TokenPhisher
+This NodeJS app listens for users accessing the website. In the background a Device Code Flow is started and the User Code presented to the user.
+
+https://github.com/CompassSecurity/TokenTormentor
+Token Tormentor was designed to demonstrate the capabilities of Device Code Phishing in Entra ID.
+
 https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds
 Zeek-Formatted Threat Intelligence Feeds
+
+https://github.com/CycodeLabs/raven
+CI/CD Security Analyzer
 
 https://github.com/D00Movenok/BounceBack
 Stealth redirector for your red team operation security

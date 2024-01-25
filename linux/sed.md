@@ -33,6 +33,11 @@ sed -r '/^.{,3}$/d' <file>
 echo "00123" | sed 's/^0*//'
 ```
 
+### Remove leading white spaces
+```
+echo "    some string" | sed -e 's/^[[:space:]]*//'
+```
+
 # Edit file in place
 ```
 sed -i 's/replaceThis/replaceWith/g' <file>

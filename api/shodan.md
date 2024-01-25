@@ -3,7 +3,7 @@ https://developer.shodan.io/api
 
 ### Return details about current subscription
 ```
-curl "https://api.shodan.io/account/profile?key=<apiKey>"
+curl -s "https://api.shodan.io/account/profile?key=<apiKey>"
 ```
 
 ### Get rootdomains and subdomains of given company
@@ -13,12 +13,12 @@ curl -s "https://api.shodan.io/shodan/host/search?key=<apiKey>&query=org:<compan
 
 ### Get information about hosts that contains the given html title
 ```
-curl "https://api.shodan.io/shodan/host/search?key=<apiKey>&query=http.title:<title>" | jq ".matches[] | .domains, .hostnames" /tmp/test | grep -v "\[" | awk -F '"' '{print $2}' | sort -u
+curl -s "https://api.shodan.io/shodan/host/search?key=<apiKey>&query=http.title:<title>" | jq ".matches[] | .domains, .hostnames" /tmp/test | grep -v "\[" | awk -F '"' '{print $2}' | sort -u
 ```
 
 ### Get open ports, certificates, asn, html title and source code, geolocation, etc
 ```
-curl "https://api.shodan.io/shodan/host/<ip>?key=<apiKey>"
+curl -s "https://api.shodan.io/shodan/host/<ip>?key=<apiKey>"
 ```
 
 ### Collect information about multiple hosts

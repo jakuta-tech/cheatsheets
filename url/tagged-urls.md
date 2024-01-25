@@ -26,8 +26,8 @@
 * https://adepts.of0x.cc/visual-studio-dcom ; #windows #lateral-movement #dcom #visualstudio
 * https://aditya-pratap9557.medium.com/windows-triaging-with-powershell-part-1-parsing-event-logs-a6748657d150 ; #forensic #dfir #powershell #triage #event-logs
 * https://aditya-pratap9557.medium.com/windows-triaging-with-powershell-part-2-artifacts-collection-d28a8a9010cd ; #forensic #dfir #powershell #triage #artifacts
-* https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all ; #github #pipeline #pull-request #runner #command-and-control #c2 #cicd #continuous-deployment
-* https://adnanthekhan.com/2024/01/19/web3s-achilles-heel-a-supply-chain-attack-on-astar-network ; #cicd #continuous-deployment #self-hosted-runner #pipeline
+* https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all ; #github #pipeline #pull-request #runner #command-and-control #c2 #cicd #continuous-integration-continous-deployment
+* https://adnanthekhan.com/2024/01/19/web3s-achilles-heel-a-supply-chain-attack-on-astar-network ; #cicd #continuous-integration-continous-deployment #self-hosted-runner #pipeline
 * https://adsecurity.org/?p=4367 ; #active-directory #powershell #windows #group-managed-service-accounts #gmsa #msds-managedpassword
 * https://alice.climent-pommeret.red/posts/process-killer-driver ; #lolbin #process-killer #windows
 * https://amr-git-dot.github.io/forensic%20investigation/Breach_Investigation ; #dfir #forensic #methodology #memory-analyse
@@ -211,6 +211,7 @@
 * https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults ; #cloud #aws #organizations #cheatsheets
 * https://hackingthe.cloud/azure/abusing-managed-identities ; #cloud #azure #entra #managed-identities #cheatsheets
 * https://hack.technoherder.com/dinvoke ; #syscall #dinvoke #dynamic-api
+* https://hadess.io/the-art-of-windows-persistence ; #windows #persistence #methodology #wiki
 * https://hausec.com/2022/05/04/azure-virtual-machine-execution-techniques ; #cloud #azure #entra #vm #lateral-movement #run-command #hybrid-worker
 * https://http418infosec.com/offensive-sccm-summary ; #windows #active-directory #sccm #methodology #cheatsheets
 * https://i3wm.org/docs/userguide.html ; #linux #i3 #window-manager #wiki #documentation
@@ -237,13 +238,14 @@
 * https://javascript.info ; #javascript #wiki #cheatsheets
 * https://jhalon.github.io/utilizing-syscalls-in-csharp-1 ; #syscall #csharp #direct-system-call #dot-net
 * https://jhalon.github.io/utilizing-syscalls-in-csharp-2 ; #syscall #csharp
-* https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch ; #cicd #continuous-deployment #self-hosted-runner #pipeline #token #aws
+* https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch ; #cicd #continuous-integration-continous-deployment #self-hosted-runner #pipeline #token #aws
 * https://john-woodman.com/research/spotifyc2 ; #c2 #command-and-control #spotify
 * https://joshua.hu/nagios-hacking-cve-2023-37154 ; #nagios #ssh #cve-2023-37154 #backdoor
 * https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf ; #windows #rmm #remote-monitoring-managment #forensic #dfir
 * https://jsecurity101.medium.com/wmi-internals-part-1-41bb97e7f5eb ; #windows #wmi #wiki #methodology
 * https://jsecurity101.medium.com/wmi-internals-part-2-522f3e97709a ; #windows #wmi #provider #methodology
 * https://jxy-s.github.io/herpaderping ; #av #anti-virus #bypass #process-doppelganging #process-hollowing
+* https://karimrahal.com/2023/01/05/github-actions-leaking-secrets ; #cicd #continuous-integration-continous-deployment #github #command-injection #secrets #runner
 * https://klezvirus.github.io/RedTeaming/AV_Evasion/FromInjectionToHijacking ; #module-stumping #windows #code-injection
 * https://krebsonsecurity.com/2023/07/who-and-what-is-behind-the-malware-proxy-service-socksescort ; #threat-intelligence #malware-analyse #proxy #socksescort #illicit-services
 * https://kuenzi.dev/toothbrush ; #internet-of-things #iot #philips-sonicare #reverse-engineering #nfc
@@ -295,6 +297,7 @@
 * https://medium.com/@two06/hacking-a-tapo-tc60-camera-e6ce7ca6cad1 ; #hardware #iot #internet-of-things #reverse-engineering #camera
 * https://medium.com/@xploiterd/ec2-user-data-to-rce-f601264a75c2 ; #aws #cloud #user-data #rce
 * https://medium.com/@youcef.s.kelouaz/writing-a-sliver-c2-powershell-stager-with-shellcode-compression-and-aes-encryption-9725c0201ea8 ; #c2 #sliver #powershell #stager #shellcode #hollowing
+* https://medium.com/@yua.mikanana19/position-independent-code-pic-and-shellcode-an-introduction-1ea71f707ad ; #position-independent-code #pic #shellcode #donut
 * https://mgeeky.tech/msi-shenanigans-part-1 ; #windows #msi #vbscript #dll #initial-access #wix
 * https://micahbabinski.medium.com/search-ms-webdav-and-chill-99c5b23ac462 ; #initial-access #webdav #search-ms #uri-handler #windows #protocol-provider
 * https://microsoftedge.github.io/edgevr/posts/Escaping-the-sandbox-A-bug-that-speaks-for-itself ; #windows #browser #edge #chrome #chromium #sandbox #com #ispvoice
@@ -378,7 +381,7 @@
 * https://prfalken.org/index.php/2023/01/26/installing-a-malware-analysis-lab ; #threat-intelligence #malware-analyse #lab-setup #windows #vm #flare-vm #remnux
 * https://ptr0x1.com/posts/edr-evasion-part-ii-scarecrow ; #edr #bypass #sandbox-evasion
 * https://ptr0x1.com/posts/edr-evasion-part-i-understanding-scarecrow ; #edr #bypass #evasion #shellcode #sideloading #etw #unhooking
-* https://pulsesecurity.co.nz/articles/OMGCICD-gitlab ; #gitlab #cicd #continuous-deployment #docker-in-docker
+* https://pulsesecurity.co.nz/articles/OMGCICD-gitlab ; #gitlab #cicd #continuous-integration-continous-deployment #docker-in-docker
 * https://pushsecurity.com/blog/phishing-microsoft-teams-for-initial-access ; #ms-teams #phishing #spoofing #instant-messenger
 * https://pushsecurity.com/blog/samljacking-a-poisoned-tenant ; #saml #samljacking #sso #saas #phishing #nuclino
 * https://pushsecurity.com/blog/slack-phishing-for-initial-access ; #phishing #slack #initial-access #instant-messenger
@@ -408,7 +411,7 @@
 * https://ristbs.github.io/2023/02/08/your-pocket-guide-to-opsec-in-adversary-emulation.html ; #windows #edr #evasion #bypass #kernel-callback #etw
 * https://rootcat.de/blog/aws_seperatists ; #aws #cloud #organizationaccountaccessrole
 * https://ryangjchandler.co.uk/posts/understanding-serialisation-in-php ; #php #serialisation
-* https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods ; #syscall #av #anti-virus #edr #bypass #windows
+* https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods ; #syscall #p/invoke #d/invoke #av #anti-virus #edr #bypass #windows
 * https://s3cur3th1ssh1t.github.io/On-how-to-access-protected-networks ; #network #firewall #pingcastle #infrastructure
 * https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com ; #webapp #oauth
 * https://samcurry.net/points-com ; #webapp #flask #api #http
@@ -435,6 +438,7 @@
 * https://sh1ttykids.medium.com/new-techniques-uncovering-tor-hidden-service-with-etag-5249044a0e9d ; #threat-intelligence #malware-analyse #tor #uncover #etag #shodan
 * https://shorsec.io/blog/dll-notification-injection ; #windows #process-injection #dll-notification-callback
 * https://shubakki.github.io/posts/2022/12/detecting-and-evading-sandboxing-through-time-based-evasion ; #sandbox #evasion #time-based #cpu-cycles
+* https://skii.dev/rook-to-xss ; #web #xss #phpsessid #tinymce
 * https://sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms?utm_source=twitter&utm_medium=social&utm_content=security ; #snmp #librenms #php #cisco
 * https://soxoj.substack.com/p/getting-an-instagram-profile-by-phone ; #threat-intel #phone #instagram
 * https://splintercod3.blogspot.com/p/bypassing-uac-with-sspi-datagram.html ; #windows #lsass #token #uac #sspi #ntlm
@@ -467,7 +471,7 @@
 * https://troopers.de/downloads/troopers23/TR23_DumpingNTHashesfromAzureAD.pdf ; #azure #entra #nthash #azure-ad-domain-services #aadds
 * https://trufflesecurity.com/blog/4500-of-the-top-1-million-websites-leaked-source-code-secrets ; #git #secrets #aws #api-keys
 * https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of ; #google #oauth #email-alias
-* https://trufflesecurity.com/blog/secrets-leak-in-ci-cd ; #continuous-integration #jenkins #ec2 #api #secrets #cicd
+* https://trufflesecurity.com/blog/secrets-leak-in-ci-cd ; #jenkins #ec2 #api #secrets #cicd #continuous-integration-continous-deployment
 * https://trufflesecurity.com/blog/trufflehog-commands-git-vs-filesystem ; #trufflehog #git #github #secrets #keys
 * https://trustedsec.com/blog/a-hitchhackers-guide-to-dacl-based-detections-part-1-a ; #windows #acl #active-directory #gpo
 * https://trustedsec.com/blog/js-tap-weaponizing-javascript-for-red-teams ; #javascript #xss #web #persistence
@@ -586,6 +590,7 @@
 * https://www.rootcat.de/blog/ec2-meta_may23 ; #cloud #aws #ec2 #meta-data
 * https://www.r-tec.net/r-tec-blog-evade-signature-based-phishing-detections.html ; #phishing #evasion #signature-based #safe-browsing
 * https://www.r-tec.net/r-tec-blog-net-assembly-obfuscation-for-memory-scanner-evasion.html ; #dot-net #memory-scanner #evasion #reflective-loader #obfuscation
+* https://www.r-tec.net/r-tec-blog-process-injection-avoiding-kernel-triggered-memory-scans.html ; #process-injection #event-tracing-for-windows #pic #etw #edr #kernel
 * https://www.r-tec.net/r-tec-blog-resource-based-constrained-delegation.html ; #active-directory #kerberos #resource-based-constrained-delegation #rbcd
 * https://www.r-tec.net/r-tec-blog-when-hackers-hack-the-hackers.html ; #threat-intelligence #malware-analyse #discord #c2
 * https://www.sans.org/blog/finding-evil-wmi-event-consumers-with-disk-forensics ; #windows #forensic #dfir #wmi-event #detection
@@ -629,6 +634,7 @@
 * https://www.trustedsec.com/blog/set-up-an-android-hacking-lab-for-0 ; #android #lab #emulator #frida #apk
 * https://www.trustedsec.com/blog/the-art-of-bypassing-kerberoast-detections-with-orpheus ; #kerberoast #active-directory #kerberoast #encryption #detection #orpheus
 * https://www.uptycs.com/blog/new-poc-exploit-backdoor-malware ; #threat-intelligence #malware-analyse #fake-poc #github
+* https://www.virusbulletin.com/virusbulletin/2019/04/alternative-communication-channel-over-ntp ; #network-time-protocol #ntp #data-exfiltration
 * https://www.vx-underground.org/#E:/root ; #malware-collection #wiki
 * https://www.websec.ca/kb/sql_injection ; #mysql #cheatsheets #wiki
 * https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration ; #cloud #azure #entra #bing #account-takeover

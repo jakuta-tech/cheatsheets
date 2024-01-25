@@ -21,12 +21,12 @@ jq ".pos1 .key1" <file>.json
 
 ### Retrieve multiple values from key
 ```
-cat <file>.json | jq ".pos1 .key1, .key3"
+cat <file>.json | jq -r ".pos1 .key1, .key3"
 ```
 
 ### Retrieve values from array (example: name of computer from bloodhound json result)
 ```
-cat <file>.json | jq ".data[] .Properties .name"
+cat <file>.json | jq -r ".data[] .Properties .name"
 ```
 
 ### Retrieve multiple values from array 
